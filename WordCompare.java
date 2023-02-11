@@ -1,4 +1,14 @@
 import java.util.Scanner;
+
+/*
+Name: James Williams
+Date: 2/10/2023
+
+Sorry, I didn't understand how to make a JavaDoc.
+
+This program compares two strings and returns their relationship,
+whether one is lexographically first or if they are both equals.
+ */
 public class WordCompare {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
