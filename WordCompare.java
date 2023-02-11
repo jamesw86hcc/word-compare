@@ -26,7 +26,7 @@ public class WordCompare {
             {
                 System.out.println(word2 + " comes before " + word1 + ".");
             }
-            Boolean badResponse = false;
+            boolean badResponse = false;
             do {
                 System.out.println("Would you like to compare another set of words? (Yes/No)");
                 String response = input.nextLine();
